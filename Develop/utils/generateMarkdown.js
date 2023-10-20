@@ -49,8 +49,9 @@ function generateMarkdown(data) {
   ## Test_instructions
 
 
-
-  
+  ## Contact
+  If you have any questions here is my email ${data.email}
+  You can checkout my work at [${data.github}](https://github.com/${data.github})
 
 `;
 }
