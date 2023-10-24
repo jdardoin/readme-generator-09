@@ -33,7 +33,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'did anyone contribute or sandbaggers',
+        message: 'did anyone contribute',
 
     },
 
@@ -47,7 +47,7 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'what is your email?',
-    
+
     },
 
 
@@ -55,6 +55,12 @@ const questions = [
         type: 'input',
         name: 'github',
         message: 'what is your github',
+    },
+
+    {
+        type: 'input',
+        name: 'license',
+        message: 'what license was used for application'
     },
 
 
