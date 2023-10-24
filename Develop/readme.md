@@ -1,6 +1,6 @@
-# Professinal Read me 
+# Super man
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   ## table of contents
@@ -12,11 +12,11 @@
   -[Test_instructions](#test_instructions)
 
   ## Installation
-  repo. open VS ode and run command node index.js in terminal
+  down repo
 
 
   ## Description
-  Creates a professinal read me 
+  saves 
 
 
   ##Instructions
@@ -24,7 +24,7 @@
 
 
   ## Usage_information
-  to created a read me 
+  no
 
 
 
@@ -37,10 +37,9 @@
   no
 
   ## Contact
-  If you have any questions here is my email gmail
-  You can checkout my work at [jardoin](https://github.com/jardoin)
+  If you have any questions here is my email gmail.com
+  You can checkout my work at [jadoin](https://github.com/jadoin)
 
   ## License 
-  MIT license 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
+  MIT License
+  
