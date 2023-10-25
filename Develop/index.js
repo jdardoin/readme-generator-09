@@ -58,9 +58,10 @@ const questions = [
     },
 
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'what license was used for application'
+        message: 'what license was used for application',
+        choices: ['MIT', 'BSD 3.0', 'APACHE 2.0', 'none']
     },
 
 
